@@ -1,3 +1,5 @@
+Android模拟器检测
+
 anti-emulator
 =============
 
